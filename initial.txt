@@ -1,2 +1,3 @@
 New changes added to initial.txt
 Edited in branch b1
+Change A in initial.txt

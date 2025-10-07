@@ -1,1 +1,2 @@
 This is b2 file
+Change B in b2_file.txt
